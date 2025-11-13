@@ -1,9 +1,9 @@
-#numero1 = float(input ("Ingrese un numero "))
-#numero2 = float (input ("ingrese otro numero"))
+numero1 = float(input ("Ingrese un numero "))
+numero2 = float (input ("ingrese otro numero"))
 
-#respuesta = numero1 + numero2 
+respuesta = numero1 + numero2 
 
-#print("El resultado final es ", respuesta)
+print("El resultado final es ", respuesta)
 
 #tiempo extra
 
